@@ -51,17 +51,17 @@
   z-index: 1;
   transform: rotate(0deg);
   text-align: left;
-  line-height: 0px;
+  line-height: 1.2; /* Adjust this value to your preference */
 }
+
 .link--restary-1-1072-0 {
   font-size: 39px;
   font-family: Futura;
   font-weight: 400;
-
   text-decoration: none;
   text-transform: none;
   letter-spacing: 0.5px;
-  line-height: 35px;
+  line-height: 1.2; /* Adjust this value to match the parent line-height */
   color: #ff4e00ff;
 }
 
