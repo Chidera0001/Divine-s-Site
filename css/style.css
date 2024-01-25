@@ -44,24 +44,23 @@
 .link--restary-1-1072 {
   position: absolute;
   width: 349px;
-  height: 51px;
+  height: 60px;
   top: 276px;
   left: 500px;
   opacity: 1;
   z-index: 1;
   transform: rotate(0deg);
   text-align: left;
-  line-height: 1.2; /* Adjust this value to your preference */
+  line-height: 0px;
 }
-
 .link--restary-1-1072-0 {
-  font-size: 39px;
+  font-size: 20px;
   font-family: Futura;
   font-weight: 400;
   text-decoration: none;
   text-transform: none;
   letter-spacing: 0.5px;
-  line-height: 1.2; /* Adjust this value to match the parent line-height */
+  line-height: 35px;
   color: #ff4e00ff;
 }
 
